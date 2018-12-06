@@ -1,5 +1,4 @@
 import scala.io.Source._
-import scala.collection.mutable.BitSet
 import scala.math.Ordering.Implicits._
 
 import java.time.format.DateTimeFormatter
